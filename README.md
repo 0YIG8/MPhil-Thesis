@@ -19,9 +19,9 @@ To compile and build a specific project in Linux, run:
 $ make clean
 $ make build
 $ cd build
-$ make main_MRF
+$ make main_SRF
 $ cd .. 
-$ ./bin/main_MRF MRF.cfg
+$ ./bin/main_SRF SRF.cfg
 ```
 
 To visualize the results run either of the following:
